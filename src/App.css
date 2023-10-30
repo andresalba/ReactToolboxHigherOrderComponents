@@ -1,0 +1,13 @@
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hoc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
